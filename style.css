@@ -1,0 +1,32 @@
+/* 🔒 Impede o usuário de fechar ou colapsar o sidebar */
+[data-testid="collapsedControl"],
+[data-testid="stSidebarCollapseButton"],
+button[aria-label="Collapse sidebar"],
+button[title="Collapse sidebar"],
+button[aria-label="Expand sidebar"],
+button[title="Expand sidebar"] {
+    display: none !important;
+}
+
+/* Garante que o sidebar fique sempre visível */
+section[data-testid="stSidebar"] {
+    visibility: visible !important;
+    width: 300px !important; /* ajuste conforme o layout */
+}
+
+
+/* Botão de login */
+.stButton>button {
+    width: 100%;
+    border-radius: 8px;
+    background: linear-gradient(90deg, #00C9A7, #0091EA);
+    color: white;
+    border: none;
+    font-weight: bold;
+}
+
+/* Esconde menus e rodapés do Streamlit */
+#MainMenu {visibility: hidden;}
+header {visibility: hidden;}
+footer {visibility: hidden;}
+
