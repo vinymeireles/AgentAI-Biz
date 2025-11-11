@@ -75,7 +75,7 @@ Esses agentes operam de forma **sequencial e colaborativa**, garantindo coerênc
 
 📍 **Autor:** [Paulo Vinicius Meireles]  
 📫 **Contato:** ✉️ viniciusmeireles@gmail.com
-🚀
+🚀 [https://agentai-biz.streamlit.app/]
    Login - AgentAI Trip 
    👤 Usuário: teste 🔒 Senha: teste
 🧩 **Framework Base:** [CrewAI](https://github.com/vinymeireles/AgentAI-Biz)
