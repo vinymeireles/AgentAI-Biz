@@ -1,4 +1,4 @@
-# 💼 AgentAI Biz — Sistema de Agentes Inteligentes para Negócios
+# 💼 AgentAI Biz — Sistema de Agentes Inteligentes para Negócios (Version DEMO)
 
 **AgentAI Biz** é uma plataforma baseada em **Inteligência Artificial Multiagente (CrewAI)**, desenvolvida para **automatizar a criação de planos de negócio completos** — desde a análise de mercado até a geração automática de **pitch decks profissionais em PDF**.
 
